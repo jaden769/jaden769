@@ -5,10 +5,10 @@
 **“Welcome back, sir. The workshop is ready.”**
 
 ![Theme](https://img.shields.io/badge/DESIGN-STARK_INSPIRED-9E1B32?style=for-the-badge&labelColor=151B26&color=9E1B32)
-![Mode](https://img.shields.io/badge/MODE-BUILD_%E2%86%92_VERIFY-D6AA50?style=for-the-badge&labelColor=151B26)
+![Mode](https://img.shields.io/badge/MODE-BUILD_%E2%86%92_LEARN-D6AA50?style=for-the-badge&labelColor=151B26)
 ![Core](https://img.shields.io/badge/CORE-CURIOSITY-65EAFF?style=for-the-badge&labelColor=151B26)
 
-[Enter the workshop](https://github.com/jaden769?tab=repositories) · [Inspect VeriAgent](https://github.com/jaden769/veriagent)
+[Enter the workshop](https://github.com/jaden769?tab=repositories) · [Explore my projects](https://github.com/jaden769?tab=repositories)
 
 </div>
 
@@ -20,19 +20,21 @@
 
 Tony Stark inspired the workshop aesthetic. Curiosity keeps it running.
 
-I'm exploring how to build software that checks its own results and recovers when things go wrong. My current work centers on **Python, AI agent reliability, and reproducible experiments**.
+I'm a **computer science student who loves turning ideas into working projects**. I enjoy exploring new technologies, solving problems, and learning by building — from small experiments to more ambitious applications.
 
-> **Workshop principle:** A success message is a claim. Verify what actually happened.
+This workshop is where I share what I create, what I discover, and how I grow as a developer. There's always another idea to try and another project to build.
+
+> **Workshop principle:** Stay curious. Build something useful. Keep improving.
 
 ## 02 / ARMOR SYSTEMS
 
-Technologies used in my public project — each with a job to do.
+A growing toolkit, shaped by the projects I build and the problems I explore.
 
 | System | Component | Role in the workshop |
 | :--- | :--- | :--- |
-| ⚙️ Core runtime | **Python** | Agent logic and experiments |
-| 🔌 Interface | **FastAPI** | Local application API |
-| 💾 State recorder | **SQLite** | Persisted state and verification evidence |
+| ⚙️ Core runtime | **Python** | Programming, scripting, and experiments |
+| 🔌 Interface | **FastAPI** | Application APIs |
+| 💾 State recorder | **SQLite** | Data storage and application state |
 | 🧪 Diagnostics | **Pytest** | Repeatable checks and regression tests |
 | 🛠️ Version control | **Git & GitHub** | Track each iteration |
 
@@ -46,9 +48,9 @@ Technologies used in my public project — each with a job to do.
 
 </div>
 
-## 03 / ACTIVE PROTOTYPE — VERIAGENT
+## 03 / PROJECT BAY
 
-### A mission control room for agent reliability.
+### Featured build: VeriAgent
 
 [**VeriAgent**](https://github.com/jaden769/veriagent) is an executable research sandbox for **evidence-grounded verification and bounded recovery**.
 
@@ -64,6 +66,8 @@ The workshop includes deterministic experiments, event traces, and browser fault
 
 [![Inspect source](https://img.shields.io/badge/INSPECT_SOURCE-VERIAGENT-D6AA50?style=for-the-badge&logo=github&logoColor=F7D774&labelColor=9E1B32)](https://github.com/jaden769/veriagent)
 
+More builds will join the workshop as I explore new ideas. [Browse all repositories →](https://github.com/jaden769?tab=repositories)
+
 ## 04 / LIVE TELEMETRY
 
 [![Last commit](https://img.shields.io/github/last-commit/jaden769/veriagent?style=for-the-badge&label=PROTOTYPE%20UPDATE&labelColor=151B26&color=65EAFF)](https://github.com/jaden769/veriagent/commits)
@@ -74,7 +78,7 @@ The workshop includes deterministic experiments, event traces, and browser fault
 
 <div align="center">
 
-### BUILD. VERIFY. ITERATE.
+### IMAGINE. BUILD. ITERATE.
 
 **The next prototype starts with a better question.**
 
