@@ -50,28 +50,14 @@ A growing toolkit, shaped by the projects I build and the problems I explore.
 
 ## 03 / PROJECT BAY
 
-### Featured build: VeriAgent
+### [VeriAgent →](https://github.com/jaden769/veriagent)
 
-[**VeriAgent**](https://github.com/jaden769/veriagent) is an executable research sandbox for **evidence-grounded verification and bounded recovery**.
-
-**The experiment:** A tool reports success, but its update never reaches the application state. What should an agent do next?
-
-| Protocol | Behavior |
-| :--- | :--- |
-| **BASELINE** | Accept the tool's report |
-| **VERIFY** | Check persisted state independently |
-| **RECOVER** | Retry eligible unmet requirements within explicit budgets, then check again |
-
-The workshop includes deterministic experiments, event traces, and browser fault controls. It is a research prototype with results limited to controlled scenarios.
-
-[![Inspect source](https://img.shields.io/badge/INSPECT_SOURCE-VERIAGENT-D6AA50?style=for-the-badge&logo=github&logoColor=F7D774&labelColor=9E1B32)](https://github.com/jaden769/veriagent)
+A research sandbox exploring how AI agents can verify results and recover from failed updates. Built around controlled experiments, independent state checks, and bounded retries.
 
 More builds will join the workshop as I explore new ideas. [Browse all repositories →](https://github.com/jaden769?tab=repositories)
 
 ## 04 / LIVE TELEMETRY
 
-[![Last commit](https://img.shields.io/github/last-commit/jaden769/veriagent?style=for-the-badge&label=PROTOTYPE%20UPDATE&labelColor=151B26&color=65EAFF)](https://github.com/jaden769/veriagent/commits)
-[![Stars](https://img.shields.io/github/stars/jaden769/veriagent?style=for-the-badge&label=STARS&labelColor=151B26&color=D6AA50)](https://github.com/jaden769/veriagent/stargazers)
 [![Followers](https://img.shields.io/github/followers/jaden769?style=for-the-badge&label=CONNECTIONS&labelColor=151B26&color=9E1B32)](https://github.com/jaden769?tab=followers)
 
 ---
