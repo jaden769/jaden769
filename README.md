@@ -1,65 +1,83 @@
 <div align="center">
 
-# Hi, I'm Myint Myat Aung 👋
-### Computer Science Student · Building, Testing, Learning
+![Myint Myat Aung — J.A.R.V.I.S. personal workshop](assets/workshop.svg)
 
-Turning ideas into working software — with a focus on Python and reliable AI agents.
+**“Welcome back, sir. The workshop is ready.”**
 
-[![GitHub](https://img.shields.io/badge/GitHub-jaden769-181717?style=for-the-badge&logo=github)](https://github.com/jaden769)
-[![Explore my work](https://img.shields.io/badge/Explore-My_Projects-2ea44f?style=for-the-badge)](https://github.com/jaden769?tab=repositories)
+![Theme](https://img.shields.io/badge/DESIGN-STARK_INSPIRED-9E1B32?style=for-the-badge&labelColor=151B26&color=9E1B32)
+![Mode](https://img.shields.io/badge/MODE-BUILD_%E2%86%92_VERIFY-D6AA50?style=for-the-badge&labelColor=151B26)
+![Core](https://img.shields.io/badge/CORE-CURIOSITY-65EAFF?style=for-the-badge&labelColor=151B26)
+
+[Enter the workshop](https://github.com/jaden769?tab=repositories) · [Inspect VeriAgent](https://github.com/jaden769/veriagent)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 01 / OPERATOR DOSSIER
 
-I'm a **computer science student** exploring how to build software that can check its results and recover when things go wrong.
+**Myint Myat Aung** · `jaden769` · Computer Science Student · he/him
 
-- 🔭 **Building:** [VeriAgent](https://github.com/jaden769/veriagent), a research sandbox for evidence-grounded verification and bounded recovery.
-- 🌱 **Exploring through my work:** AI agent reliability, browser automation, and reproducible evaluation.
-- 🧪 **My approach:** Build small experiments, test assumptions, and verify the outcome.
-- 😄 **Pronouns:** he/him
+Tony Stark inspired the workshop aesthetic. Curiosity keeps it running.
 
-## 💻 Tech Stack
+I'm exploring how to build software that checks its own results and recovers when things go wrong. My current work centers on **Python, AI agent reliability, and reproducible experiments**.
 
-Tools used in my public project:
+> **Workshop principle:** A success message is a claim. Verify what actually happened.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 02 / ARMOR SYSTEMS
 
-## 🚀 Featured Project
+Technologies used in my public project — each with a job to do.
 
-### [VeriAgent →](https://github.com/jaden769/veriagent)
+| System | Component | Role in the workshop |
+| :--- | :--- | :--- |
+| ⚙️ Core runtime | **Python** | Agent logic and experiments |
+| 🔌 Interface | **FastAPI** | Local application API |
+| 💾 State recorder | **SQLite** | Persisted state and verification evidence |
+| 🧪 Diagnostics | **Pytest** | Repeatable checks and regression tests |
+| 🛠️ Version control | **Git & GitHub** | Track each iteration |
 
-**What a tool reports should match what actually happened.**
+<div align="center">
 
-An executable research sandbox that compares a baseline agent with verification and bounded recovery when a tool reports success without saving its update.
+![Python](https://img.shields.io/badge/Python-9E1B32?style=for-the-badge&logo=python&logoColor=F7D774)
+![FastAPI](https://img.shields.io/badge/FastAPI-151B26?style=for-the-badge&logo=fastapi&logoColor=65EAFF)
+![SQLite](https://img.shields.io/badge/SQLite-D6AA50?style=for-the-badge&logo=sqlite&logoColor=151B26)
+![Pytest](https://img.shields.io/badge/Pytest-151B26?style=for-the-badge&logo=pytest&logoColor=65EAFF)
+![Git](https://img.shields.io/badge/Git-9E1B32?style=for-the-badge&logo=git&logoColor=F7D774)
 
-- Independent checks against persisted application state
-- Selective retries for unmet requirements within explicit budgets
-- Deterministic experiments, event traces, and browser fault controls
+</div>
 
-*An experimental research prototype; results are limited to controlled scenarios.*
+## 03 / ACTIVE PROTOTYPE — VERIAGENT
 
-[![View source](https://img.shields.io/badge/View_Source-VeriAgent-2ea44f?style=for-the-badge&logo=github)](https://github.com/jaden769/veriagent)
+### A mission control room for agent reliability.
 
-## 📊 Project Activity
+[**VeriAgent**](https://github.com/jaden769/veriagent) is an executable research sandbox for **evidence-grounded verification and bounded recovery**.
 
-[![Last commit](https://img.shields.io/github/last-commit/jaden769/veriagent?style=for-the-badge&label=VeriAgent%20%C2%B7%20Last%20Commit&color=2ea44f)](https://github.com/jaden769/veriagent/commits)
-[![Stars](https://img.shields.io/github/stars/jaden769/veriagent?style=for-the-badge&logo=github&color=58a6ff)](https://github.com/jaden769/veriagent/stargazers)
-[![Followers](https://img.shields.io/github/followers/jaden769?style=for-the-badge&logo=github&color=bc8cff)](https://github.com/jaden769?tab=followers)
+**The experiment:** A tool reports success, but its update never reaches the application state. What should an agent do next?
+
+| Protocol | Behavior |
+| :--- | :--- |
+| **BASELINE** | Accept the tool's report |
+| **VERIFY** | Check persisted state independently |
+| **RECOVER** | Retry eligible unmet requirements within explicit budgets, then check again |
+
+The workshop includes deterministic experiments, event traces, and browser fault controls. It is a research prototype with results limited to controlled scenarios.
+
+[![Inspect source](https://img.shields.io/badge/INSPECT_SOURCE-VERIAGENT-D6AA50?style=for-the-badge&logo=github&logoColor=F7D774&labelColor=9E1B32)](https://github.com/jaden769/veriagent)
+
+## 04 / LIVE TELEMETRY
+
+[![Last commit](https://img.shields.io/github/last-commit/jaden769/veriagent?style=for-the-badge&label=PROTOTYPE%20UPDATE&labelColor=151B26&color=65EAFF)](https://github.com/jaden769/veriagent/commits)
+[![Stars](https://img.shields.io/github/stars/jaden769/veriagent?style=for-the-badge&label=STARS&labelColor=151B26&color=D6AA50)](https://github.com/jaden769/veriagent/stargazers)
+[![Followers](https://img.shields.io/github/followers/jaden769?style=for-the-badge&label=CONNECTIONS&labelColor=151B26&color=9E1B32)](https://github.com/jaden769?tab=followers)
 
 ---
 
 <div align="center">
 
-**Build. Verify. Improve.**
+### BUILD. VERIFY. ITERATE.
 
-Thanks for stopping by — explore my repositories to see what I'm working on.
+**The next prototype starts with a better question.**
+
+<sub>A personal workshop inspired by Tony Stark's engineering spirit.</sub>
 
 </div>
